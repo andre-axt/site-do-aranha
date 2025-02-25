@@ -1,0 +1,78 @@
+body{
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("imagens/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbar{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#icon{
+    width: 60px;
+    height: 60px;
+    padding-right: 15px;
+}
+#apresentacao{
+    display: flex;
+    padding: 15px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    border-style: groove;
+    border-color: aliceblue;
+}
+.imagem_apresentacao{
+    width: 300px;
+    height: 300px;
+    padding-right: 150px;
+}
+main{
+    background-color: black;
+}
+.titulo{
+    justify-content: center;
+    color: aliceblue;
+    text-align: center;
+}
+#aliados{
+    display: flex;
+    padding: 15px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    border-style: groove;
+    border-color: aliceblue;
+}
+.imagem_aliados{
+    width: 300px;
+    height: 300px;
+    padding-right: 150px;
+}
+#viloes{
+    display: flex;
+    padding: 15px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    border-style: groove;
+    border-color: aliceblue;
+}
+.imagens_viloes{
+    width: 300px;
+    height: 300px;
+    padding-right: 150px;
+}
+#rodape{
+    text-align: center;
+    color: aliceblue;
+}
+a{
+    color: aqua;
+}
+
+
