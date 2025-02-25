@@ -36,8 +36,9 @@ main{
 }
 .titulo{
     justify-content: center;
-    color: aliceblue;
+    color: black;
     text-align: center;
+    background-color: brown;
 }
 #aliados{
     display: flex;
