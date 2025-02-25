@@ -83,5 +83,8 @@ main{
 .botao:hover{
     background-color: greenyellow;
 }
-
+a{
+    cursor: pointer;
+    color: aliceblue;
+}
 
