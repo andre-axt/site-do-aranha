@@ -78,6 +78,7 @@ main{
     border-style: groove;
     cursor: pointer;
     background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .botao:hover{
