@@ -71,6 +71,7 @@ main{
 #rodape{
     text-align: center;
     color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .botao{
     color: black;
@@ -79,6 +80,7 @@ main{
     cursor: pointer;
     background-color: aqua;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
 }
 
 .botao:hover{
